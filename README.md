@@ -1,4 +1,4 @@
-# OOPS Projects 
+# OOPs Projects 
 
 This repository contains a collection of projects implemented using **Object-Oriented Programming (OOP) concepts** in C++ and other languages.  
 Each project demonstrates core OOP principles such as **Encapsulation, Inheritance, Polymorphism, Abstraction, and Design Patterns**.
